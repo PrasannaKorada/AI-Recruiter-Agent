@@ -81,7 +81,3 @@ Licensed under the **MIT License**.
 
 ---
 
-## 📝 One-Line Summary for README Tools
-```
-AI recruiter agent for smart resume search and filtering using Gemini, FAISS, and HuggingFace in Streamlit.
-```
